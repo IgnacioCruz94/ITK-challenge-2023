@@ -80,6 +80,6 @@ describe("Code Challenge: Sum of matrices", () => {
 
     expect(() => {
       sumOfMatrices(firstMatrix, secondMatrix);
-    }).toThrowError("Empty mtrices are not allowed.");
+    }).toThrowError("Empty matrices are not allowed.");
   });
 });

@@ -8,7 +8,7 @@
  * - Add your logic in sumOfMatrices function, do not modify the arguments.
  * - Verify that both matrices have the same number of rows and columns. Otherwise,
  *   throw an exception with the message "Matrices must have the same number of rows and columns."
- * - Verify that none is empty, otherwise, throw an exception with the message "Empty mtrices are not allowed."
+ * - Verify that none is empty, otherwise, throw an exception with the message "Empty matrices are not allowed."
  *
  * Example:
  * Given the following input matrices:
